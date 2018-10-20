@@ -1,31 +1,17 @@
 import time
 
 import logging
-import firebase_admin
 import flask
 
 from flask import Flask, request
 from functools import lru_cache
 from flask import request
-from firebase_admin import credentials
 from repositories .user_repository import UserRepository
-
-_IDENTITY_ENDPOINT = ('https://identitytoolkit.googleapis.com/'
-                      'google.identity.identitytoolkit.v1.IdentityToolkit')
-
-_FIREBASE_SCOPES = [
-    'https://www.googleapis.com/auth/firebase.database',
-    'https://www.googleapis.com/auth/userinfo.email']
-
-FIREBASE_URI = "https://nasa-hackathon-team-2.firebaseio.com/"
+from firebase_initializer import initialize_firebase
 
 logging.info("Initializing App")
 app = Flask(__name__)
-cred = credentials.Certificate('./credentials.json')
-firebase_admin.initialize_app(cred, {
-    'databaseURL': FIREBASE_URI
-})
-
+initialize_firebase()
 user_repo = UserRepository()
 
 @app.route('/user/<user_id>', methods=["GET"])
