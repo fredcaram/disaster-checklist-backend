@@ -29,5 +29,5 @@ VOLUME ["/app-data"]
 
 #RUN cd app && python initial_load.py
 # Running Python Application
-CMD ["python", "app/app.py"]
+CMD ["python", "app/waitress_serve.py"]
 #CMD ["python", "-m", "flask", "run"]
