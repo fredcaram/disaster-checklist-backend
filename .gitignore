@@ -1,5 +1,4 @@
 venv/
 .idea/
-credentials.json
 __pycache__/
 extenal_libs/*/*

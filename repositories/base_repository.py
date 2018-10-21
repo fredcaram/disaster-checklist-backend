@@ -34,7 +34,7 @@ class BaseRepository:
         return value
 
     def get_collection(self):
-        database_ref = db.reference(DEFAULT_GET_PATH.format(self._database_name))
+        database_ref = db.reference(DEFAULT_GET_COLLECTION_PATH.format(self._database_name))
         values = database_ref.get()
         return values
 
