@@ -2,4 +2,8 @@ version: '3'
 services:
   disaster_checklist:
     build: .
-    network_mode: "bridge"
+    network_mode: "host"
+    expose:
+      - "5000/tcp"
+    ports:
+     - "5000:5000/tcp"
