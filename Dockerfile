@@ -22,7 +22,7 @@ COPY . /disaster-checklist-backend/app
 ENV APP_ENV development
 
 # Exposing Ports
-EXPOSE 5000:5000
+EXPOSE 8080
 
 # Setting Persistent data
 VOLUME ["/app-data"]

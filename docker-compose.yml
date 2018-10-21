@@ -4,6 +4,6 @@ services:
     build: .
     network_mode: "host"
     expose:
-      - "5000/tcp"
+      - "8080/tcp"
     ports:
-     - "5000:5000/tcp"
+     - "8080:8080/tcp"

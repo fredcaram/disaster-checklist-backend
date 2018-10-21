@@ -138,5 +138,5 @@ def get_list_items(disaster_id, user_id):
     return items
 
 
-if __name__ == '__main__':
-    app.run()
+#if __name__ == '__main__':
+    #app.run()
