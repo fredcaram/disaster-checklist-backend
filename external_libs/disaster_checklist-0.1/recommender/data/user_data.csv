@@ -1,0 +1,101 @@
+ID,USER,EMAIL,PHONE,HOME,SEX,AGE,LOCATION,CITY,NEIGHBORHOOD,NUM KIDS,HAS DISEASES,HAS CAR,WEIGHT,HEIGHT,SPORT,SMOKER,DRINKER,INCOME K/YEAR,JOB,HOBY,LANGUAGE
+1,Agatha,Agatha@gmail.com,5801-2694,,F,51,,São Gonçalo,,1,NÃO,NÃO,87,1.90,SIM,NÃO,NÃO,35.16,teacher,Music,PORTUGUESE
+2,Alice,Alice@gmail.com,1645-1223,,F,106,,Maceió,,0,NÃO,SIM,68,1.96,NÃO,NÃO,SIM,259.12,teacher,Sport,PORTUGUESE
+3,Alícia,Alícia@gmail.com,9266-9506,,F,68,,Goiânia,,1,NÃO,SIM,65,1.93,SIM,NÃO,NÃO,41.41,police officer,Collecting,PORTUGUESE
+4,Allana,Allana@gmail.com,6485-8905,,F,17,,São Gonçalo,,3,NÃO,SIM,55,1.7932,NÃO,NÃO,SIM,26.02,teacher,Collecting,PORTUGUESE
+5,Amanda,Amanda@gmail.com,3653-8223,,F,91,,Recife,,2,NÃO,NÃO,53,1.90,SIM,NÃO,SIM,227.55,chef,Music,ENGLISH
+6,Ana,Ana@gmail.com,7891-3061,,F,35,,Curitiba,,0,NÃO,SIM,65,1.92,NÃO,NÃO,NÃO,150.65,scientist,Crafts,PORTUGUESE
+7,Ana Beatriz,Ana_Beatriz@gmail.com,8990-4544,,F,15,,Belo Horizonte,,0,NÃO,SIM,41,1.8804,SIM,NÃO,NÃO,104.65,actor,Television,PORTUGUESE
+8,Ana Cecília,Ana_Cecília@gmail.com,8486-2172,,F,23,,Brasília,,3,NÃO,NÃO,36,1.1157,NÃO,NÃO,NÃO,38.74,dentist,Collecting,PORTUGUESE
+9,Ana Clara,Ana_Clara@gmail.com,9383-7099,,F,19,,Natal,,0,NÃO,NÃO,22,1.8224,NÃO,NÃO,SIM,105.41,teacher,Music,PORTUGUESE
+10,Ana Júlia,Ana_Júlia@gmail.com,6895-2868,,F,60,,São Gonçalo,,0,NÃO,SIM,88,1.94,SIM,NÃO,SIM,92.61,police officer,Collecting,ENGLISH
+11,Ana Laura,Ana_Laura@gmail.com,1738-2990,,F,69,,Campo Grande,,2,NÃO,NÃO,57,1.97,NÃO,SIM,NÃO,68.81,police officer,Crafts,PORTUGUESE
+12,Ana Lívia,Ana_Lívia@gmail.com,9051-6348,,F,59,,Duque de Caxias,,2,NÃO,SIM,92,1.96,SIM,NÃO,SIM,163.63,assistant,Traveling,PORTUGUESE
+13,Ana Liz,Ana_Liz@gmail.com,4674-5019,,F,25,,Recife,,1,NÃO,SIM,33,1.317,SIM,NÃO,SIM,99.45,scientist,Music,PORTUGUESE
+14,Ana Luiza,Ana_Luiza@gmail.com,8327-2215,,F,77,,Campinas,,0,NÃO,SIM,53,1.90,NÃO,NÃO,SIM,59.44,scientist,Television,PORTUGUESE
+15,Ana Sophia,Ana_Sophia@gmail.com,1495-1729,,F,74,,São Luís,,0,NÃO,SIM,61,1.98,SIM,NÃO,NÃO,38.48,dentist,Television,PORTUGUESE
+16,Ana Vitória,Ana_Vitória@gmail.com,6635-3667,,F,25,,Belo Horizonte,,3,NÃO,NÃO,33,1.2105,SIM,NÃO,SIM,14.63,engineer,Fishing,PORTUGUESE
+17,Analu,Analu@gmail.com,8492-9879,,F,41,,São Luís,,0,NÃO,SIM,99,1.98,SIM,NÃO,NÃO,25.92,assistant,Collecting,PORTUGUESE
+18,André,André@gmail.com,4972-5175,,M,95,,São Paulo,,0,NÃO,NÃO,58,1.91,SIM,NÃO,NÃO,59.39,executive,Traveling,PORTUGUESE
+19,Anthony,Anthony@gmail.com,3487-4930,,M,27,,São Luís,,0,SIM,SIM,99,1.1926,SIM,NÃO,SIM,53.00,teacher,Television,PORTUGUESE
+20,Anthony Gabriel,Anthony_Gabriel@gmail.com,7182-1743,,M,88,,São Luís,,0,NÃO,SIM,56,1.98,SIM,NÃO,NÃO,12.67,nurse,Sport,PORTUGUESE
+21,Antonella,Antonella@gmail.com,3765-8349,,F,109,,Goiânia,,0,NÃO,SIM,50,1.95,NÃO,SIM,NÃO,7.50,police officer,Crafts,ENGLISH
+22,Antônia,Antônia@gmail.com,5067-4587,,F,95,,Brasília,,2,NÃO,NÃO,77,1.95,SIM,NÃO,NÃO,57.67,dentist,Television,PORTUGUESE
+23,Antônio,Antônio@gmail.com,5282-7068,,M,29,,Campinas,,1,NÃO,SIM,93,1.1452,NÃO,NÃO,NÃO,21.04,nurse,Collecting,PORTUGUESE
+24,Arthur,Arthur@gmail.com,6378-4631,,M,26,,Porto Alegre,,2,NÃO,NÃO,84,1.6396,SIM,NÃO,SIM,7.24,teacher,Collecting,PORTUGUESE
+25,Arthur Gabriel,Arthur_Gabriel@gmail.com,9302-1214,,M,15,,Rio de Janeiro,,1,SIM,SIM,43,1.1087,SIM,NÃO,SIM,65.04,teacher,Collecting,PORTUGUESE
+26,Arthur Henrique,Arthur_Henrique@gmail.com,6597-9488,,M,51,,São Paulo,,3,NÃO,SIM,80,1.93,NÃO,NÃO,SIM,21.74,dentist,Music,PORTUGUESE
+27,Arthur Miguel,Arthur_Miguel@gmail.com,6424-8320,,M,96,,Goiânia,,1,NÃO,NÃO,58,1.95,SIM,NÃO,NÃO,30.22,actor,Collecting,ESPANHOL
+28,Augusto,Augusto@gmail.com,2904-8739,,M,12,,Manaus,,0,SIM,SIM,17,1.1201,NÃO,NÃO,SIM,9.77,writer,Television,PORTUGUESE
+29,Aurora,Aurora@gmail.com,1317-5583,,F,93,,Campo Grande,,0,NÃO,SIM,76,1.95,SIM,NÃO,SIM,74.60,executive,Collecting,PORTUGUESE
+30,Ayla,Ayla@gmail.com,2188-5159,,F,48,,Belém,,1,NÃO,NÃO,88,1.94,NÃO,NÃO,SIM,65.92,engineer,Traveling,PORTUGUESE
+31,Beatriz,Beatriz@gmail.com,8301-8370,,F,17,,Campo Grande,,0,SIM,SIM,46,1.6399,SIM,NÃO,SIM,39.11,nurse,Television,PORTUGUESE
+32,Benício,Benício@gmail.com,6441-6205,,M,26,,Campo Grande,,0,NÃO,SIM,99,1.2016,SIM,NÃO,NÃO,78.67,engineer,Crafts,PORTUGUESE
+33,Benjamin,Benjamin@gmail.com,4377-7114,,M,23,,São Gonçalo,,0,NÃO,SIM,40,1.1557,SIM,NÃO,NÃO,26.78,scientist,Sport,PORTUGUESE
+34,Bento,Bento@gmail.com,6481-9541,,M,106,,Goiânia,,3,NÃO,NÃO,69,2.00,NÃO,NÃO,SIM,159.31,vet,Fishing,PORTUGUESE
+35,Bernardo,Bernardo@gmail.com,2181-7914,,M,21,,Belo Horizonte,,1,NÃO,NÃO,41,1.2225,SIM,NÃO,NÃO,58.62,executive,Television,PORTUGUESE
+36,Bianca,Bianca@gmail.com,6434-7571,,F,35,,Rio de Janeiro,,3,NÃO,NÃO,54,1.96,SIM,SIM,SIM,143.39,executive,Sport,PORTUGUESE
+37,Breno,Breno@gmail.com,7827-9679,,M,31,,Belo Horizonte,,1,NÃO,NÃO,73,1.955,NÃO,NÃO,NÃO,178.19,writer,Traveling,PORTUGUESE
+38,Bruna,Bruna@gmail.com,1100-4952,,F,75,,Curitiba,,2,NÃO,NÃO,61,1.98,SIM,NÃO,SIM,153.58,assistant,Music,PORTUGUESE
+39,Bruno,Bruno@gmail.com,7611-4388,,M,75,,Maceió,,3,NÃO,NÃO,81,2.00,NÃO,NÃO,SIM,47.15,police officer,Reading,PORTUGUESE
+40,Bryan,Bryan@gmail.com,4868-7868,,M,70,,Duque de Caxias,,1,NÃO,NÃO,73,1.91,SIM,NÃO,NÃO,115.78,assistant,Traveling,PORTUGUESE
+41,Caio,Caio@gmail.com,5020-8107,,M,64,,São Paulo,,3,SIM,NÃO,75,1.92,NÃO,NÃO,SIM,140.72,accountant,Traveling,ESPANHOL
+42,Caleb,Caleb@gmail.com,9606-3367,,M,85,,Manaus,,0,NÃO,SIM,53,1.92,NÃO,NÃO,SIM,71.40,executive,Fishing,PORTUGUESE
+43,Carlos Eduardo,Carlos_Eduardo@gmail.com,9619-6718,,M,14,,Natal,,0,NÃO,SIM,25,1.711,NÃO,NÃO,SIM,106.23,scientist,Reading,PORTUGUESE
+44,Carolina,Carolina@gmail.com,2555-2451,,F,70,,Salvador,,3,NÃO,SIM,87,1.94,SIM,NÃO,SIM,115.89,police officer,Traveling,PORTUGUESE
+45,Catarina,Catarina@gmail.com,4910-8944,,F,35,,Duque de Caxias,,3,NÃO,NÃO,94,1.109,NÃO,NÃO,SIM,81.13,writer,Sport,PORTUGUESE
+46,Cauã,Cauã@gmail.com,4062-1708,,M,1,,Maceió,,3,NÃO,NÃO,59,1.8762,NÃO,NÃO,NÃO,25.13,dentist,Fishing,ESPANHOL
+47,Cecília,Cecília@gmail.com,5411-6121,,F,61,,Brasília,,0,NÃO,SIM,89,1.97,NÃO,NÃO,SIM,47.84,vet,Sport,PORTUGUESE
+48,Clara,Clara@gmail.com,1696-8181,,F,71,,Goiânia,,2,NÃO,NÃO,89,1.94,NÃO,NÃO,NÃO,179.04,teacher,Reading,PORTUGUESE
+49,Clarice,Clarice@gmail.com,2842-1368,,F,42,,Manaus,,0,NÃO,NÃO,68,1.98,SIM,NÃO,NÃO,177.50,executive,Fishing,PORTUGUESE
+50,Daniel,Daniel@gmail.com,4090-8881,,M,75,,Campinas,,3,SIM,NÃO,99,1.94,SIM,NÃO,NÃO,8.26,executive,Crafts,PORTUGUESE
+51,Danilo,Danilo@gmail.com,4500-4236,,M,83,,Curitiba,,0,NÃO,SIM,98,1.94,NÃO,NÃO,SIM,59.97,accountant,Crafts,PORTUGUESE
+52,Davi,Davi@gmail.com,8712-2799,,M,114,,Guarulhos,,0,NÃO,NÃO,71,1.97,SIM,SIM,NÃO,0.63,executive,Crafts,PORTUGUESE
+53,Davi Lucas,Davi_Lucas@gmail.com,7576-7672,,M,30,,Maceió,,0,NÃO,SIM,53,1.2035,SIM,NÃO,SIM,43.53,nurse,Television,PORTUGUESE
+54,Davi Lucca,Davi_Lucca@gmail.com,2540-4520,,M,27,,Fortaleza,,0,NÃO,NÃO,81,1.7069,SIM,NÃO,NÃO,7.91,police officer,Collecting,ESPANHOL
+55,Davi Luiz,Davi_Luiz@gmail.com,8472-4131,,M,101,,São Gonçalo,,0,NÃO,SIM,53,1.96,NÃO,NÃO,SIM,58.30,dentist,Television,PORTUGUESE
+56,Davi Miguel,Davi_Miguel@gmail.com,5603-3604,,M,86,,Belo Horizonte,,3,NÃO,SIM,50,1.98,SIM,NÃO,SIM,120.28,nurse,Television,PORTUGUESE
+57,Eduarda,Eduarda@gmail.com,7889-2989,,F,25,,São Paulo,,0,NÃO,SIM,97,1.2361,NÃO,NÃO,NÃO,171.98,teacher,Sport,PORTUGUESE
+58,Eduardo,Eduardo@gmail.com,2162-6672,,M,18,,São Luís,,1,NÃO,NÃO,32,1.1673,NÃO,NÃO,NÃO,169.19,actor,Television,PORTUGUESE
+59,Elisa,Elisa@gmail.com,7810-6967,,F,89,,Belo Horizonte,,2,NÃO,NÃO,55,1.94,NÃO,NÃO,SIM,268.95,nurse,Music,PORTUGUESE
+60,Eloá,Eloá@gmail.com,4337-4765,,F,66,,Brasília,,0,SIM,NÃO,93,1.95,NÃO,NÃO,SIM,73.56,scientist,Sport,PORTUGUESE
+61,Emanuel,Emanuel@gmail.com,7307-9154,,M,72,,Brasília,,0,NÃO,SIM,66,1.95,SIM,NÃO,NÃO,58.83,writer,Crafts,PORTUGUESE
+62,Emanuelly,Emanuelly@gmail.com,8905-4893,,F,13,,Porto Alegre,,3,NÃO,NÃO,52,1.527,SIM,NÃO,SIM,49.39,writer,Fishing,PORTUGUESE
+63,Emilly,Emilly@gmail.com,8487-5349,,F,45,,Fortaleza,,3,NÃO,SIM,77,1.94,SIM,NÃO,NÃO,72.89,scientist,Fishing,PORTUGUESE
+64,Enrico,Enrico@gmail.com,4028-7874,,M,108,,Porto Alegre,,0,NÃO,SIM,98,1.93,NÃO,NÃO,SIM,178.95,vet,Collecting,ESPANHOL
+65,Enzo,Enzo@gmail.com,5786-3867,,M,71,,Maceió,,2,NÃO,NÃO,96,1.91,SIM,NÃO,SIM,65.68,nurse,Television,PORTUGUESE
+66,Enzo Gabriel,Enzo_Gabriel@gmail.com,9718-3471,,M,87,,São Paulo,,0,NÃO,SIM,65,1.93,SIM,NÃO,NÃO,228.97,assistant,Crafts,PORTUGUESE
+67,Enzo Miguel,Enzo_Miguel@gmail.com,4252-2658,,M,21,,Guarulhos,,0,NÃO,SIM,39,1.6193,SIM,NÃO,NÃO,158.00,scientist,Fishing,PORTUGUESE
+68,Erick,Erick@gmail.com,5892-4588,,M,42,,Campinas,,0,NÃO,NÃO,86,1.91,NÃO,NÃO,NÃO,62.18,executive,Traveling,PORTUGUESE
+69,Esther,Esther@gmail.com,7411-8576,,F,79,,Salvador,,1,NÃO,SIM,93,1.96,SIM,SIM,SIM,131.23,police officer,Crafts,ESPANHOL
+70,Felipe,Felipe@gmail.com,9990-7758,,M,73,,Campinas,,0,SIM,SIM,61,1.90,SIM,NÃO,SIM,117.69,scientist,Crafts,PORTUGUESE
+71,Fernanda,Fernanda@gmail.com,1821-8894,,F,39,,Fortaleza,,0,NÃO,SIM,62,1.94,SIM,NÃO,NÃO,5.14,executive,Crafts,PORTUGUESE
+72,Fernando,Fernando@gmail.com,9262-6454,,M,112,,Recife,,2,NÃO,SIM,69,2.00,SIM,NÃO,SIM,11.55,chef,Crafts,PORTUGUESE
+73,Francisco,Francisco@gmail.com,9426-9725,,M,110,,Guarulhos,,0,NÃO,NÃO,70,2.00,SIM,NÃO,SIM,102.58,accountant,Music,PORTUGUESE
+74,Gabriel,Gabriel@gmail.com,9995-4822,,M,13,,Campo Grande,,3,NÃO,NÃO,23,1.479,SIM,NÃO,SIM,5.02,assistant,Fishing,PORTUGUESE
+75,Gabriela,Gabriela@gmail.com,1390-1812,,F,90,,Natal,,0,NÃO,NÃO,53,1.91,SIM,NÃO,SIM,14.09,accountant,Sport,ESPANHOL
+76,Gabrielly,Gabrielly@gmail.com,4132-3262,,F,36,,Duque de Caxias,,0,NÃO,SIM,29,1.9897,NÃO,NÃO,NÃO,90.68,chef,Television,PORTUGUESE
+77,Gael,Gael@gmail.com,2164-9291,,M,34,,Rio de Janeiro,,0,NÃO,NÃO,97,1.1837,NÃO,NÃO,NÃO,47.73,engineer,Reading,PORTUGUESE
+78,Giovanna,Giovanna@gmail.com,8990-9914,,F,47,,Belo Horizonte,,3,NÃO,SIM,69,1.96,NÃO,NÃO,SIM,52.94,writer,Crafts,PORTUGUESE
+79,Guilherme,Guilherme@gmail.com,8182-6396,,M,28,,Curitiba,,1,NÃO,SIM,31,1.6541,NÃO,NÃO,NÃO,120.44,teacher,Fishing,PORTUGUESE
+80,Gustavo,Gustavo@gmail.com,5015-3541,,M,76,,Manaus,,3,NÃO,NÃO,88,1.99,SIM,NÃO,SIM,42.75,nurse,Reading,PORTUGUESE
+81,Heitor,Heitor@gmail.com,2692-7764,,M,50,,São Paulo,,0,SIM,SIM,41,1.5569,SIM,NÃO,NÃO,99.16,engineer,Collecting,PORTUGUESE
+82,Helena,Helena@gmail.com,1825-9437,,F,67,,Maceió,,0,NÃO,NÃO,83,1.94,NÃO,NÃO,NÃO,34.35,assistant,Sport,PORTUGUESE
+83,Heloísa,Heloísa@gmail.com,8960-6947,,F,120,,São Luís,,2,NÃO,SIM,78,1.93,SIM,NÃO,SIM,105.16,executive,Collecting,PORTUGUESE
+84,Heloise,Heloise@gmail.com,2096-7016,,F,45,,Natal,,0,NÃO,SIM,92,2.00,NÃO,NÃO,NÃO,152.94,executive,Music,ENGLISH
+85,Henrique,Henrique@gmail.com,3238-3975,,M,42,,Porto Alegre,,3,NÃO,NÃO,57,1.98,SIM,NÃO,NÃO,203.28,teacher,Traveling,PORTUGUESE
+86,Henry,Henry@gmail.com,7208-2428,,M,29,,Maceió,,0,NÃO,SIM,81,1.4129,NÃO,SIM,SIM,60.59,engineer,Sport,PORTUGUESE
+87,Ian,Ian@gmail.com,2695-2321,,M,57,,Guarulhos,,2,NÃO,SIM,71,1.96,NÃO,NÃO,SIM,117.72,actor,Music,PORTUGUESE
+88,Isaac,Isaac@gmail.com,4950-4152,,M,87,,Recife,,1,NÃO,NÃO,52,1.97,NÃO,NÃO,SIM,53.51,chef,Crafts,PORTUGUESE
+89,Isabel,Isabel@gmail.com,5715-8443,,F,55,,Fortaleza,,1,SIM,SIM,63,1.90,NÃO,NÃO,SIM,132.16,actor,Crafts,PORTUGUESE
+90,Isabella,Isabella@gmail.com,6997-2747,,F,65,,Fortaleza,,0,NÃO,SIM,51,1.99,SIM,NÃO,SIM,41.40,scientist,Collecting,PORTUGUESE
+91,Isabelly,Isabelly@gmail.com,5839-4112,,F,70,,Goiânia,,0,NÃO,SIM,50,1.95,SIM,NÃO,NÃO,176.76,writer,Reading,PORTUGUESE
+92,Isadora,Isadora@gmail.com,5318-1117,,F,75,,Fortaleza,,0,NÃO,NÃO,87,1.93,SIM,NÃO,NÃO,11.26,actor,Collecting,PORTUGUESE
+93,Isis,Isis@gmail.com,9911-6149,,F,117,,São Paulo,,3,NÃO,NÃO,72,1.98,SIM,NÃO,SIM,147.37,police officer,Fishing,PORTUGUESE
+94,Joana,Joana@gmail.com,2151-1460,,F,91,,Brasília,,0,NÃO,SIM,31,1.2882,NÃO,NÃO,SIM,190.09,scientist,Sport,ENGLISH
+95,João,João@gmail.com,8888-4798,,M,59,,Salvador,,3,NÃO,NÃO,63,1.95,NÃO,SIM,NÃO,107.01,writer,Sport,PORTUGUESE
+96,João Gabriel,João_Gabriel@gmail.com,2698-7764,,M,38,,Curitiba,,0,NÃO,SIM,76,1.96,SIM,NÃO,NÃO,188.91,police officer,Reading,PORTUGUESE
+97,João Guilherme,João_Guilherme@gmail.com,5162-4885,,M,71,,Maceió,,1,NÃO,NÃO,59,1.90,NÃO,NÃO,NÃO,132.42,vet,Collecting,PORTUGUESE
+98,João Lucas,João_Lucas@gmail.com,6214-8138,,M,31,,Fortaleza,,1,SIM,NÃO,71,1.8989,NÃO,NÃO,SIM,66.08,nurse,Crafts,ESPANHOL
+99,João Miguel,João_Miguel@gmail.com,7174-8153,,M,73,,Salvador,,0,NÃO,SIM,66,1.91,NÃO,NÃO,NÃO,43.22,dentist,Fishing,PORTUGUESE
+100,João Pedro,João_Pedro@gmail.com,4761-9487,,M,83,,Duque de Caxias,,0,NÃO,NÃO,86,1.99,SIM,SIM,NÃO,36.87,actor,Collecting,ENGLISH

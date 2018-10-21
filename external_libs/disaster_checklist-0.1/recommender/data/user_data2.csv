@@ -1,0 +1,20 @@
+﻿id;name;email;phone;home;sex;age;location;city;neighborhood;children;reducedMobility;carOwner;weight;height;practiceSports;smoker;drinker;yearIncome;currentJob;mainHobby;motherLanguage;petOwner
+1;Agatha;Agatha@gmail.com;5801-2694;;F;51;;São Gonçalo;;1;NÃO;NÃO;87;1.90;SIM;NÃO;NÃO;35.16;teacher;Music;PORTUGUESE;FALSO
+2;Alice;Alice@gmail.com;1645-1223;;F;106;;Maceió;;0;NÃO;SIM;68;1.96;NÃO;NÃO;SIM;259.12;teacher;Sport;PORTUGUESE;FALSO
+3;Alícia;Alícia@gmail.com;9266-9506;;F;68;;Goiânia;;1;NÃO;SIM;65;1.93;SIM;NÃO;NÃO;41.41;police officer;Collecting;PORTUGUESE;VERDADEIRO
+4;Allana;Allana@gmail.com;6485-8905;;F;17;;São Gonçalo;;3;NÃO;SIM;55;17.932;NÃO;NÃO;SIM;26.02;teacher;Collecting;PORTUGUESE;FALSO
+5;Amanda;Amanda@gmail.com;3653-8223;;F;91;;Recife;;2;NÃO;NÃO;53;1.90;SIM;NÃO;SIM;227.55;chef;Music;ENGLISH;FALSO
+6;Ana;Ana@gmail.com;7891-3061;;F;35;;Curitiba;;0;NÃO;SIM;65;1.92;NÃO;NÃO;NÃO;150.65;scientist;Crafts;PORTUGUESE;FALSO
+7;Ana Beatriz;Ana_Beatriz@gmail.com;8990-4544;;F;15;;Belo Horizonte;;0;NÃO;SIM;41;18.804;SIM;NÃO;NÃO;104.65;actor;Television;PORTUGUESE;FALSO
+8;Ana Cecília;Ana_Cecília@gmail.com;8486-2172;;F;23;;Brasília;;3;NÃO;NÃO;36;11.157;NÃO;NÃO;NÃO;38.74;dentist;Collecting;PORTUGUESE;VERDADEIRO
+9;Ana Clara;Ana_Clara@gmail.com;9383-7099;;F;19;;Natal;;0;NÃO;NÃO;22;18.224;NÃO;NÃO;SIM;105.41;teacher;Music;PORTUGUESE;FALSO
+10;Ana Júlia;Ana_Júlia@gmail.com;6895-2868;;F;60;;São Gonçalo;;0;NÃO;SIM;88;1.94;SIM;NÃO;SIM;92.61;police officer;Collecting;ENGLISH;FALSO
+11;Ana Laura;Ana_Laura@gmail.com;1738-2990;;F;69;;Campo Grande;;2;NÃO;NÃO;57;1.97;NÃO;SIM;NÃO;68.81;police officer;Crafts;PORTUGUESE;FALSO
+12;Ana Lívia;Ana_Lívia@gmail.com;9051-6348;;F;59;;Duque de Caxias;;2;NÃO;SIM;92;1.96;SIM;NÃO;SIM;163.63;assistant;Traveling;PORTUGUESE;FALSO
+13;Ana Liz;Ana_Liz@gmail.com;4674-5019;;F;25;;Recife;;1;NÃO;SIM;33;1.317;SIM;NÃO;SIM;99.45;scientist;Music;PORTUGUESE;VERDADEIRO
+14;Ana Luiza;Ana_Luiza@gmail.com;8327-2215;;F;77;;Campinas;;0;NÃO;SIM;53;1.90;NÃO;NÃO;SIM;59.44;scientist;Television;PORTUGUESE;FALSO
+15;Ana Sophia;Ana_Sophia@gmail.com;1495-1729;;F;74;;São Luís;;0;NÃO;SIM;61;1.98;SIM;NÃO;NÃO;38.48;dentist;Television;PORTUGUESE;VERDADEIRO
+16;Ana Vitória;Ana_Vitória@gmail.com;6635-3667;;F;25;;Belo Horizonte;;3;NÃO;NÃO;33;12.105;SIM;NÃO;SIM;14.63;engineer;Fishing;PORTUGUESE;FALSO
+17;Analu;Analu@gmail.com;8492-9879;;F;41;;São Luís;;0;NÃO;SIM;99;1.98;SIM;NÃO;NÃO;25.92;assistant;Collecting;PORTUGUESE;FALSO
+18;André;André@gmail.com;4972-5175;;M;95;;São Paulo;;0;NÃO;NÃO;58;1.91;SIM;NÃO;NÃO;59.39;executive;Traveling;PORTUGUESE;FALSO
+19;Anthony;Anthony@gmail.com;3487-4930;;M;27;;São Luís;;0;SIM;SIM;99;11.926;SIM;NÃO;SIM;53.00;teacher;Television;PORTUGUESE;FALSO

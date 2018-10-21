@@ -1,11 +1,8 @@
 from repositories.user_repository import UserRepository
 from repositories.item_repository import ItemRepository
-import csv
-import json
 import pandas as pd
 
 from firebase_initializer import initialize_firebase
-
 initialize_firebase()
 
 def load_items():

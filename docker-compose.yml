@@ -1,0 +1,5 @@
+version: '3'
+services:
+  disaster_checklist:
+    build: .
+    network_mode: "bridge"
