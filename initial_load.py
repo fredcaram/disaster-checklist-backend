@@ -42,5 +42,5 @@ def load_disasters():
 
 
 load_items()
-load_users()
-load_disasters()
+#load_users()
+#load_disasters()

@@ -13,6 +13,7 @@ from repositories.disaster_repository import DisasterRepository
 
 from firebase_initializer import initialize_firebase
 import pandas as pd
+import numpy as np
 
 logging.info("Initializing App")
 app = Flask(__name__)
@@ -122,20 +123,23 @@ def delete_list_item(list_item_id):
 @app.route('/get_list_for_disaster', methods=["GET"])
 def get_list_for_disaster():
     logging.debug("Get item list for disaster")
-    user_id = request.query_string["user_id"]
-    disaster_id = request.query_string["disaster_id"]
-    items = get_list_items(disaster_id, user_id)
+    user_id = request.args.get('user_id')
+    disaster_id = request.args.get("disaster_id")
+    result = get_list_items(disaster_id, user_id)
 
-    return flask.jsonify(items)
+    return flask.jsonify(result)
 
 
 def get_list_items(disaster_id, user_id):
     user = user_repo.get(user_id)
     user_profile_df = pd.DataFrame(user, index=[user["id"]])
     list_items = list_repo.get_list_for_disaster(user_profile_df, disaster_id)
-    item_ids = list(list_items["idItem"].values)
+    item_ids = [int(item_id) for item_id in list_items["idItem"].values]
     items = item_repo.get_items(item_ids)
-    return items
+    result = {
+        "result": items
+    }
+    return result
 
 
 #if __name__ == '__main__':

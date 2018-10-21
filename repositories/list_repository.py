@@ -21,3 +21,5 @@ class ListRepository(BaseRepository):
         if ListRepository.Model is None:
             ListRepository.Model = recommender_list.load_model()
 
+        return ListRepository.Model
+
