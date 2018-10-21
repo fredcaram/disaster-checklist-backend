@@ -48,7 +48,7 @@ def insert_user():
 
 
 @app.route('/disasters', methods=["GET"])
-def get_disaster():
+def get_disaster_collection():
     logging.debug("Getting disaster collection")
     disasters = flask.jsonify(disaster_repo.get_collection())
     logging.debug(disasters)
@@ -88,7 +88,7 @@ def delete_disaster(disaster_id):
 
 
 @app.route('/list_item/<list_item_id>', methods=["GET"])
-def get_user(list_item_id):
+def get_list_item(list_item_id):
     logging.debug("Getting List item")
     list_item = flask.jsonify(list_repo.get(list_item_id))
     logging.debug(list_item)
@@ -96,7 +96,7 @@ def get_user(list_item_id):
 
 
 @app.route('/list_item/<list_item_id>/update', methods=["PATCH"])
-def update_user(list_item_id):
+def update_list_item(list_item_id):
     logging.debug("Updating List item")
     list_item = request.json
     list_item_json = list_repo.update(list_item_id, list_item)
@@ -105,7 +105,7 @@ def update_user(list_item_id):
 
 
 @app.route('/list_item/insert/', methods=["POST", "PUT"])
-def insert_user():
+def insert_list_item():
     logging.debug("Inserting List Item")
     list_item = request.json
     logging.debug(list_item)
@@ -113,13 +113,13 @@ def insert_user():
 
 
 @app.route('/list_item/<list_item_id>', methods=["DELETE"])
-def delete_user(list_item_id):
+def delete_list_item(list_item_id):
     logging.debug("Delete List item")
     list_repo.delete(list_item_id)
     return "Success"
 
 
-@app.route('get_list_for_disaster', methods=["GET"])
+@app.route('/get_list_for_disaster', methods=["GET"])
 def get_list_for_disaster():
     logging.debug("Get item list for disaster")
     user_id = request.query_string["user_id"]

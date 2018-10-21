@@ -1,9 +1,11 @@
 from repositories.user_repository import UserRepository
 from repositories.item_repository import ItemRepository
+from repositories.disaster_repository import DisasterRepository
 import pandas as pd
 
 from firebase_initializer import initialize_firebase
 initialize_firebase()
+
 
 def load_items():
     file_name = "initial_load/item_list.csv"
@@ -27,5 +29,18 @@ def load_users():
             user_repo.add(user)
 
 
+def load_disasters():
+    disaster_list = [
+        {"disaster_number": 0, "description": "Hurricane"},
+        {"disaster_number": 1, "description": "Flood"}
+    ]
+
+    disaster_repo = DisasterRepository()
+
+    for disaster in disaster_list:
+        disaster_repo.add(disaster)
+
+
 load_items()
 load_users()
+load_disasters()
